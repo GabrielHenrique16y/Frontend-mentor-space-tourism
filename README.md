@@ -34,7 +34,55 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+#### Home
+
+**Mobile**  
+![Home Mobile](./screenshots/home/home-mobile.png)
+
+**Tablet**  
+![Home Tablet](./screenshots/home/home-tablet.png)
+
+**Desktop**  
+![Home Desktop](./screenshots/home/home-desktop.png)
+
+---
+
+#### 🪐 Destination
+
+**Mobile**  
+![Destination Mobile](./screenshots/destination/destination-mobile.png)
+
+**Tablet**  
+![Destination Tablet](./screenshots/destination/destination-tablet.png)
+
+**Desktop**  
+![Destination Desktop](./screenshots/destination/destination-desktop.png)
+
+---
+
+#### Crew
+
+**Mobile**  
+![Crew Mobile](./screenshots/crew/crew-mobile.png)
+
+**Tablet**  
+![Crew Tablet](./screenshots/crew/crew-tablet.png)
+
+**Desktop**  
+![Crew Desktop](./screenshots/crew/crew-desktop.png)
+
+---
+
+#### 🚀 Technology
+
+**Mobile**  
+![Technology Mobile](./screenshots/technology/technology-mobile.png)
+
+**Tablet**  
+![Technology Tablet](./screenshots/technology/technology-tablet.png)
+
+**Desktop**  
+![Technology Desktop](./screenshots/technology/technology-desktop.png)
 
 ### Links
 
