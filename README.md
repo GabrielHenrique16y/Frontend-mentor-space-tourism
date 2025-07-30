@@ -68,7 +68,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL:
-    [https://www.frontendmentor.io/solutions/space-tourism-nextjs-tailwind](https://www.frontendmentor.io/solutions/space-tourism-nextjs-tailwind)
+    [https://www.frontendmentor.io/solutions/space-tourism-nextjs-tailwind](https://www.frontendmentor.io/solutions/response-space-tourism-page-TKndwLsZqt)
 -   Live Site URL:
     [https://space-tourism-gabriel.vercel.app](https://space-tourism-gabriel.vercel.app)
 
